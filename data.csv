@@ -1,0 +1,19 @@
+[
+Id: 1
+Name: Samsung AR9500T
+Price: 8600
+Color:white
+Type: conditioner
+HeatedArea: 6
+ModesNumber: 3
+Power: 500-1000 Вт
+, 
+Id: 2
+Name: Bork R704
+Price: 4500
+Color: grey
+Type: heater
+Refrigerant type: R410A
+Pipeline height: 5
+Airflow rate: 10.9
+]
